@@ -1,6 +1,6 @@
 # hapi.js-react.js-hmr-enabled
 
-#Stack
+# Stack
 React.js
 Hapi.js
 hapi-react-views
